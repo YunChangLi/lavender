@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void)
+{
+  printf("合計金額是%d元。\n", 80 * 12 + 180 * 4)；
+  
+  return 0；
+}  
